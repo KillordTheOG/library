@@ -1,11 +1,13 @@
 ﻿using Library.Data;
 using Library.Models;
 using Library.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library.Controllers
 {
+    [Authorize(Roles = "User")]
     public class MemberController : Controller
     {
         private MemberRepository memberRepository;
