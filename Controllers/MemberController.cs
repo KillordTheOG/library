@@ -18,13 +18,15 @@ namespace Library.Controllers
         // GET: MemberController
         public ActionResult Index()
         {
-            return View();
+            var members = memberRepository.GetAllMembers();
+            return View(members);
         }
 
         // GET: MemberController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(Guid id)
         {
-            return View();
+            var model = memberRepository.GetMemberByID(id);
+            return View(model);
         }
 
         // GET: MemberController/Create
@@ -59,19 +61,33 @@ namespace Library.Controllers
         }
 
         // GET: MemberController/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(Guid id)
         {
-            return View();
+            var model = memberRepository.GetMemberByID(id);
+            return View(model);
         }
 
         // POST: MemberController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(Guid id, IFormCollection collection)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                var model = new MemberModel();
+
+                var task = TryUpdateModelAsync(model);
+                task.Wait();
+
+                if (task.Result)
+                {
+                    memberRepository.UpdateMember(model);
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View();
+                }
             }
             catch
             {
@@ -80,18 +96,20 @@ namespace Library.Controllers
         }
 
         // GET: MemberController/Delete/5
-        public ActionResult Delete(int id)
+        public ActionResult Delete(Guid id)
         {
-            return View();
+            var model = memberRepository.GetMemberByID(id);
+            return View(model);
         }
 
         // POST: MemberController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(Guid id, IFormCollection collection)
         {
             try
             {
+                memberRepository.DeleteMember(id);
                 return RedirectToAction(nameof(Index));
             }
             catch

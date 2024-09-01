@@ -58,9 +58,9 @@ namespace Library.Repository
             }
         }
 
-        public void DeleteMember(MemberModel memberModel)
+        public void DeleteMember(Guid id)
         {
-            Member existingMember = dbContext.Members.FirstOrDefault(x => x.Idmember == memberModel.Idmember);
+            Member existingMember = dbContext.Members.FirstOrDefault(x => x.Idmember == id);
 
             if (existingMember != null)
             {
