@@ -35,6 +35,11 @@ namespace Library.Repository
             return MapDbObjectToModel(dbContext.Members.FirstOrDefault(x => x.Idmember == ID));
         }
 
+        public MemberModel GetMemberByEmail(string email)
+        {
+	        return MapDbObjectToModel(dbContext.Members.FirstOrDefault(x => x.Email == email));
+        }
+
         public void InsertMember(MemberModel memberModel)
         {
             memberModel.Idmember = Guid.NewGuid();
