@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\indexforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\indexforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\repository\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:repository\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\deleteloanforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\deleteloanforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\models\\dbobjects\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:models\\dbobjects\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,40 +95,12 @@
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\indexforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\indexforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\deleteloanforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\loan\\deleteloanforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\loan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,28 +131,12 @@
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\models\\loanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:models\\loanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\repository\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:repository\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787674D6-8897-4381-96CF-61F9055D62DD}|Library.csproj|d:\\ulbs\\2023-2025 (master)\\modul 1\\tehnologii modern de programare\\proiect\\library\\models\\dbobjects\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,245 +154,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AspNetUser.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUser.cs",
-              "RelativeDocumentMoniker": "Models\\DBObjects\\AspNetUser.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUser.cs",
-              "RelativeToolTip": "Models\\DBObjects\\AspNetUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:35:06.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AspNetUserLogin.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUserLogin.cs",
-              "RelativeDocumentMoniker": "Models\\DBObjects\\AspNetUserLogin.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUserLogin.cs",
-              "RelativeToolTip": "Models\\DBObjects\\AspNetUserLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:34:54.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:34:39.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:34:35.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:34:16.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:33:43.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:32:11.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Member\\Edit.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Member\\Edit.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:30:31.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Member\\Details.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Details.cshtml",
-              "RelativeToolTip": "Views\\Member\\Details.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:30:02.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Member\\Delete.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Member\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:29:32.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "Controllers\\MemberController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:29:14.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Member\\Create.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Create.cshtml",
-              "RelativeToolTip": "Views\\Member\\Create.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:28:51.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Loan\\Create.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Create.cshtml",
-              "RelativeToolTip": "Views\\Loan\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T10:14:53.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "LoanController.cs",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\LoanController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoanController.cs",
               "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\LoanController.cs",
               "RelativeToolTip": "Controllers\\LoanController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwCwAAAAcAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAMwDQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T09:01:33.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Member\\Index.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Index.cshtml",
-              "RelativeToolTip": "Views\\Member\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "IndexForUser.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\IndexForUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\IndexForUser.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\IndexForUser.cshtml",
+              "RelativeToolTip": "Views\\Loan\\IndexForUser.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAlwCQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T08:59:20.49Z",
+              "WhenOpened": "2024-09-05T11:01:36.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAlwCsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T10:55:10.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Loan\\Delete.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Loan\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:00:12.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "DeleteLoanForUser.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\DeleteLoanForUser.cshtml",
               "RelativeDocumentMoniker": "Views\\Loan\\DeleteLoanForUser.cshtml",
               "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\DeleteLoanForUser.cshtml",
               "RelativeToolTip": "Views\\Loan\\DeleteLoanForUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T11:08:15.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 6,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:38:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA5wCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:15:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\Index.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Loan\\Index.cshtml*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T08:53:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LoanRepository.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\LoanRepository.cs",
+              "RelativeToolTip": "Repository\\LoanRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAhwDMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:14:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAWwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:29:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "Views\\Member\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:28:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
@@ -393,33 +288,228 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Loan\\Index.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Index.cshtml",
-              "RelativeToolTip": "Views\\Loan\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T08:53:02.95Z",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwHEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:34:16.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IndexForUser.cshtml",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\IndexForUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\Loan\\IndexForUser.cshtml",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\IndexForUser.cshtml",
-              "RelativeToolTip": "Views\\Loan\\IndexForUser.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAACAAAA",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\Details.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Details.cshtml",
+              "RelativeToolTip": "Views\\Member\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T11:01:36.202Z",
+              "WhenOpened": "2024-09-05T11:30:02.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:32:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:34:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:39:22.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:34:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "Models\\DBObjects\\AspNetUser.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUser.cs",
+              "RelativeToolTip": "Models\\DBObjects\\AspNetUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:35:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:39:22.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T11:39:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AspNetUserLogin.cs",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\DBObjects\\AspNetUserLogin.cs",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\AspNetUserLogin.cs",
+              "RelativeToolTip": "Models\\DBObjects\\AspNetUserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:34:54.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:33:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\Edit.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Member\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:30:31.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\Delete.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Member\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:29:32.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\Create.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Create.cshtml",
+              "RelativeToolTip": "Views\\Loan\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T10:14:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\Index.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Views\\Member\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T08:59:20.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAlwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T10:55:10.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\Delete.cshtml",
+              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Loan\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Loan\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:00:12.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Delete.cshtml",
@@ -432,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
@@ -445,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
@@ -458,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -471,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -484,33 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "Models\\BookModel.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\BookModel.cs",
-              "RelativeToolTip": "Models\\BookModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:38:09.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "LoanRepository.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\LoanRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\LoanRepository.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\LoanRepository.cs",
-              "RelativeToolTip": "Repository\\LoanRepository.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAlwIUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:14:03.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "LoanModel.cs",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\LoanModel.cs",
               "RelativeDocumentMoniker": "Models\\LoanModel.cs",
@@ -523,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -536,20 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
-              "ToolTip": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Repository\\BookRepository.cs",
-              "RelativeToolTip": "Repository\\BookRepository.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAAwG8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:15:55.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\DBObjects\\Book.cs",
               "RelativeDocumentMoniker": "Models\\DBObjects\\Book.cs",
@@ -562,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "MemberModel.cs",
               "DocumentMoniker": "D:\\ULBS\\2023-2025 (master)\\Modul 1\\Tehnologii modern de programare\\Proiect\\Library\\Models\\MemberModel.cs",
               "RelativeDocumentMoniker": "Models\\MemberModel.cs",

@@ -70,7 +70,7 @@ namespace Library.Controllers
                     memberRepository.InsertMember(model);
                 }
 
-                return RedirectToAction(nameof(Details));
+                return View("Details", memberRepository.GetMemberByID(memberRepository.GetIdByEmail(User.Identity.Name)));
             }
             catch
             {

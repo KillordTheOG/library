@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\ULBS\2023-2025 (master)\Modul 1\Tehnologii modern de programare\Proiect\Library
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

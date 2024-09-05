@@ -77,7 +77,7 @@ namespace Library.Controllers
         [Authorize(Roles = "User")]
         public ActionResult DeleteLoanForUser(Guid idBook)
         {
-            var model = bookRepository.GetBookByID(idBook);
+            BookModel model = bookRepository.GetBookByID(idBook);
             return View(model);
         }
 
