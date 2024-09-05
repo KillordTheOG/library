@@ -82,16 +82,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Views/Loan/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Views/Loan/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxFZGl0LmNzaHRtbA==
+[D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Views/Loan/DeleteLoanForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZWxldGVMb2FuRm9yVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Views/Loan/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Views/Loan/IndexForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxJbmRleEZvclVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ULBS/2023-2025 (master)/Modul 1/Tehnologii modern de programare/Proiect/Library/Views/Member/Create.cshtml]

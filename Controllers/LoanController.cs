@@ -1,56 +1,70 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Library.Data;
+using Library.Models;
+using Library.Repository;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library.Controllers
 {
     public class LoanController : Controller
     {
-        // GET: LoanController
-        public ActionResult Index()
+
+        private LoanRepository loanRepository;
+        private BookRepository bookRepository;
+
+        public LoanController(ApplicationDbContext dbContext)
         {
-            return View();
+            this.loanRepository = new LoanRepository(dbContext);
+            this.bookRepository = new BookRepository(dbContext);
         }
 
-        // GET: LoanController/Details/5
-        public ActionResult Details(int id)
+        // GET: LoanController
+        [Authorize(Roles = "User, Admin")]
+        public ActionResult Index()
         {
-            return View();
+            if (User.IsInRole("Admin"))
+            {
+                var allLoans = loanRepository.GetAllLoans();
+                return View(allLoans);
+            }
+
+            var loans = loanRepository.getLoansByEmail(User.Identity.Name);
+            return View("IndexForUser",loans);
+        }
+
+        [Authorize(Roles = "User, Admin")]
+        public ActionResult Loan(Guid id)
+        {
+            loanRepository.LoanBook(id, User.Identity.Name);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: LoanController/Create
+        [Authorize(Roles = "User, Admin")]
         public ActionResult Create()
         {
-            return View();
+            var unloanedBooks = loanRepository.GetUnloanedBooks(User.Identity.Name);
+            return View(unloanedBooks);
         }
 
-        // POST: LoanController/Create
+        // GET: LoanController/Delete/5
+        [Authorize(Roles = "Admin")]
+        public ActionResult Delete(Guid idLoan)
+        {
+	        var model = loanRepository.GetLoanByID(idLoan);
+	        return View(model);
+        }
+
+        // POST: LoanController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        [Authorize(Roles = "Admin")]
+        public ActionResult Delete(Guid idLoan, IFormCollection collection)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: LoanController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: LoanController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
+                loanRepository.DeleteLoan(idLoan);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -60,24 +74,28 @@ namespace Library.Controllers
         }
 
         // GET: LoanController/Delete/5
-        public ActionResult Delete(int id)
+        [Authorize(Roles = "User")]
+        public ActionResult DeleteLoanForUser(Guid idBook)
         {
-            return View();
+            var model = bookRepository.GetBookByID(idBook);
+            return View(model);
         }
 
         // POST: LoanController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        [Authorize(Roles = "User")]
+        public ActionResult DeleteLoanForUser(Guid idBook, IFormCollection collection)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+	        try
+	        {
+                loanRepository.DeleteLoan(idBook, User.Identity.Name);
+		        return RedirectToAction(nameof(Index));
+	        }
+	        catch
+	        {
+		        return View();
+	        }
         }
-    }
+	}
 }

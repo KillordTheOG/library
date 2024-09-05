@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Library.Models.BookModel>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Your loans</h1>
+
+<p>
+	<a asp-action="Create">Loan a new book!</a>
+</p>
+
+<table class="table">
+	<thead>
+	<tr>
+		<th>
+			@Html.DisplayNameFor(model => model.Title)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.Author)
+		</th>
+		<th></th>
+	</tr>
+	</thead>
+	<tbody>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>
+				@Html.DisplayFor(modelItem => item.Title)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Author)
+			</td>
+			<td>
+				@Html.ActionLink("Delete", "DeleteLoanForUser", new { id = item.Idbook })
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

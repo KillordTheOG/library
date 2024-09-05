@@ -1,48 +1,50 @@
 ﻿@model IEnumerable<Library.Models.LoanModel>
 
 @{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Member loans</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Idmember)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Idbook)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Idloan)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idmember)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idbook)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Idloan)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-}
-    </tbody>
+	<thead>
+	<tr>
+		<th>
+			@Html.DisplayNameFor(model => model.Member.Name)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.Member.Email)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.Book.Title)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.Book.Author)
+		</th>
+		<th></th>
+	</tr>
+	</thead>
+	<tbody>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>
+				@Html.DisplayFor(modelItem => item.Member.Name)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Member.Email)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Book.Title)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Book.Author)
+			</td>
+			<td>
+				@Html.ActionLink("Delete", "Delete", new { id = item.Idloan })
+			</td>
+		</tr>
+	}
+	</tbody>
 </table>

@@ -62,10 +62,12 @@ namespace Library.Repository
             }
         }
 
+
+
         // Delete a book
-        public void DeleteBook(BookModel bookModel)
+        public void DeleteBook(Guid id)
         {
-            Book existingBook = dbContext.Books.FirstOrDefault(x => x.Idbook == bookModel.Idbook);
+            Book existingBook = dbContext.Books.FirstOrDefault(x => x.Idbook == id);
 
             if (existingBook != null)
             {
@@ -105,5 +107,5 @@ namespace Library.Repository
 
             return book;
         }
-    }
+	}
 }

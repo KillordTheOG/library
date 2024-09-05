@@ -5,31 +5,36 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Delete</h1>
+<h1>Return book</h1>
 
-<h3>Are you sure you want to delete this?</h3>
+<h3>Are you sure you want to return this book?</h3>
 <div>
-    <h4>LoanModel</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Idmember)
+            @Html.DisplayNameFor(model => model.Member.Name)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Idmember)
+            @Html.DisplayFor(model => model.Member.Name)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Idbook)
+            @Html.DisplayNameFor(model => model.Member.Email)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Idbook)
+            @Html.DisplayFor(model => model.Member.Email)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Idloan)
+            @Html.DisplayNameFor(model => model.Book.Title)
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Idloan)
-        </dd>
+	    <dd class = "col-sm-10">
+		    @Html.DisplayFor(model => model.Book.Title)
+	    </dd>
+	    <dt class = "col-sm-2">
+		    @Html.DisplayNameFor(model => model.Book.Author)
+	    </dt>
+	    <dd class = "col-sm-10">
+		    @Html.DisplayFor(model => model.Book.Author)
+	    </dd>
     </dl>
     
     <form asp-action="Delete">

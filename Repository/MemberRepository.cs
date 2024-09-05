@@ -40,6 +40,11 @@ namespace Library.Repository
 	        return MapDbObjectToModel(dbContext.Members.FirstOrDefault(x => x.Email == email));
         }
 
+        public Guid GetIdByEmail(string email)
+        {
+            return dbContext.Members.FirstOrDefault(x => x.Email == email).Idmember;
+        }
+
         public void InsertMember(MemberModel memberModel)
         {
             memberModel.Idmember = Guid.NewGuid();

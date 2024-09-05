@@ -143,6 +143,7 @@ namespace Library.Controllers
             }
             catch
             {
+                ViewBag.ErrorMessage = "This member still has book borrowed and cannot be deleted!";
                 return View();
             }
         }
