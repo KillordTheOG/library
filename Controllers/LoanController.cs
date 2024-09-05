@@ -73,7 +73,6 @@ namespace Library.Controllers
             }
         }
 
-        // GET: LoanController/Delete/5
         [Authorize(Roles = "User")]
         public ActionResult DeleteLoanForUser(Guid idBook)
         {
@@ -81,7 +80,6 @@ namespace Library.Controllers
             return View(model);
         }
 
-        // POST: LoanController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize(Roles = "User")]
